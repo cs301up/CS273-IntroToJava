@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LanderFrame
+comment0.text=\r\n\ Our\ main\ JFrame\ class\ for\ performing\ the\ "lunar\ lander"\ animation.\r\n\ \r\n\ @author\ Neil\ Tuttle,\ minor\ modifications\ by\ Steven\ R.\ Vegdahl\r\n\ @version\ 2005-09-16,\ modifications\ 2012-12-19\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method.\r\n\ \r\n\ @param\ args\ command\ line\ arguments\r\n
+comment2.params=
+comment2.target=LanderFrame()
+comment2.text=\r\n\ Constructor\ for\ our\ frame\ object\r\n\r\n
+numComments=3
